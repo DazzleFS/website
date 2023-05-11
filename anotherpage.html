@@ -1,0 +1,63 @@
+<html>
+    <head>
+        <title>BOOKING SECTION</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <section id="form">
+            <h1 class="formname">BOOK A WEBSITE</h1><br><br>
+            <form>
+                <label>NAME - </label>
+                <input type="text" id="name"  name="name" placeholder="ENTER YOUR NAME"><br><br>
+                <label>PHONE NUMBER - </label>
+                <input type="text" id="phone" name="phone" onkeyup="numberonly(this)" placeholder="**********"><br><br>
+                <label>TOPIC OF THE WEBSITE</label>
+                <input type="text" id="topic" name="topic" placeholder="TOPIC"><br><br>
+                <label for="pages">NUMBER OF PAGES IN WEBSITE - </label>
+                <select id="pages">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5 OR MORE</option>
+                </select><br><br>
+                <label for="date">WEBSITE NEEDED IN DAYS - </label>
+                <select id="date">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                </select><br><br>
+                <label>IMAGES NEEDED - </label>
+                <input type="text" id="img" name="img" onkeyup="numberonly(this)" placeholder="ONLY NUMBERS">
+                <br><br>
+                <label>SPECIAL COLOR - </label>&nbsp;&nbsp;&nbsp;
+                <input type="radio" value="yes" id="yes" name="yes">YES&nbsp;&nbsp;&nbsp;
+                <input type="radio" id="no" value="no" name="yes">NO<br><br>
+                <label>BOOKING SECTION - </label>&nbsp;&nbsp;&nbsp;
+                <input type="radio" value="yes" id="yes" name="no">YES&nbsp;&nbsp;&nbsp;
+                <input type="radio" id="no" value="no" name="no">NO<br><br>
+                <label>ADDITIONAL COMMENTS - </label>
+                <textarea id="ac" name="ac" rows="5" cols="15" placeholder="ADDITIONAL SERVICES"></textarea><br><br>
+                <input type="button" value="BOOK NOW" name="BOOK NOW" onclick="hi()"><br><br>
+                <input type="reset" value="RESET"><br><br>
+                <input type="button" value="BACK TO HOME" name="BACK TO HOME" onclick="fun2()">
+            </form>
+        </section>
+    </body>
+    <script src="main.js"></script>
+</html>

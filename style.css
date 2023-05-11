@@ -1,0 +1,291 @@
+#home
+{
+    text-align: center;
+    background-color: wheat;
+}
+
+.web
+{
+    text-align: center;
+    border-radius: 25%;
+    height: 600;
+}
+
+.homeline
+{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40;
+}
+
+#myNavbar
+{
+    font-size: 25;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.navbar-brand
+{
+    font-size: 30;
+}
+
+#myNavbar:hover
+{
+    font-size: 28;
+}
+
+.homename
+{
+    font-size: 80;
+    font-family: cursive;
+    font-weight: 300;
+}
+
+.homepara
+{
+    font-size: 38;
+    font-family: monospace;
+}
+
+#page
+{
+    text-align: center;
+    background-color: aqua;
+    color: black;
+    text-shadow: black;
+}
+
+.webline
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-size: 100;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 300;
+}
+
+.bb
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-size: 60;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cc
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-size: 40;
+}
+
+#day
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    background-color: lightpink;
+}
+
+.dayline
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-size: 100;
+    font-weight: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.pp
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-size: 60;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.aa
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-size: 40;
+}
+
+#ad
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    background-color: gold;   
+}
+
+.dd
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-size: 100;
+    font-weight: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+}
+
+.ee
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-size: 50;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.jj
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-size: 50;
+    font-family: cursive;
+}
+
+.mm
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-size: 30;
+}
+
+.zz
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-size: 50;
+    font-family: cursive;
+}
+
+.xx
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-size: 30;
+}
+
+.kk
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-size: 50;
+    font-family: cursive;
+}
+
+.qq
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-size: 30;
+}
+
+#contactUs
+{
+    text-align: center;
+    background-color: lawngreen;
+    color: black;
+    text-shadow: black;
+}
+
+.cp
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    font-size: 70;
+}
+
+.cu
+{
+    text-align: center;
+    font-size: 100;
+    text-shadow: black;
+    color: black;
+    font-family: cursive;
+    font-weight: 500;
+}
+
+.cup
+{
+    text-align: center;
+    font-size: 50;
+    color: black;
+    text-shadow: black;
+    font-family: arial black;
+    font-weight: 300;
+}
+
+.booking
+{
+    background-color: greenyellow;
+    font-family: arial grey;
+}
+
+#book
+{
+    background-color: yellow;
+    text-align: center;
+    color: black;
+    text-shadow: black;
+}
+
+.bookname
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-size: 100;
+    font-family: cursive;
+    font-weight: 500;
+}
+
+.bookp
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-size: 70;
+    font-weight: 500;
+}
+
+.lll
+{
+    text-align: center;
+    font-size: 50;
+    font-weight: 500;
+}
+
+#form
+{
+    text-align: center;
+    background-color: wheat;
+    font-size: 19;
+}
+
+.formname
+{
+    text-align: center;
+    color: black;
+    text-shadow: black;
+    font-size: 50;
+    font-family: cursive;
+    font-weight: 500;
+}
